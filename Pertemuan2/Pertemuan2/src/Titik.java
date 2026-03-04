@@ -93,11 +93,11 @@ public class Titik {
     }
 
     Titik getRefleksiX(){
-        return new Titik(getAbsis(),-getOrdinat());
+        return new Titik(absis, -ordinat);
     }   
     
     Titik getRefleksiY(){
-        return new Titik(-getAbsis(),getOrdinat());
+        return new Titik(-absis, ordinat);
     }    
 
     
