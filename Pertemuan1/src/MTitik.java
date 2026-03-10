@@ -17,5 +17,6 @@ public class MTitik {
         T1.geser(3,4);    //menggeser T1 sejauh (3,4)
 
         T1.printTitik();  //menampilkan koordinat T1 setelah digeser
+        
     }
 }
