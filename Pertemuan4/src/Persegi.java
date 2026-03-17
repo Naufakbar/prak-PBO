@@ -1,5 +1,5 @@
 /* Nama File    : Persegi.Java 
- * Deskripsi    : class BangunDatar
+ * Deskripsi    : class Persegi
  * Pembuat      : Naufal Akbar Nugroho / 24060124130057
  * Tanggal      : 12 Maret 2026
  */

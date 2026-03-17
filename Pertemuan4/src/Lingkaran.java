@@ -1,5 +1,5 @@
 /* Nama File    : Lingkaran.Java 
- * Deskripsi    : class BangunDatar
+ * Deskripsi    : class Lingkaran
  * Pembuat      : Naufal Akbar Nugroho / 24060124130057
  * Tanggal      : 12 Maret 2026
  */
@@ -7,7 +7,7 @@
 public class Lingkaran extends BangunDatar{
     //Atribut
     private double Jari;
-    
+
     // Konstruktor
     public Lingkaran (){
         setJmlSisi(0);;
