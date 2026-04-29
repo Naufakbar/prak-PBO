@@ -1,0 +1,21 @@
+//Nama : Naufal Akbar Nugroho
+//NIM : 24060124130057
+//Deskripsi :  Membuat class Dosen 
+
+public class Dosen extends Civitasakademika {
+    private String NIP;
+
+    public Dosen(String nama, String NIP) {
+        super(nama);
+        this.NIP = NIP;
+    }
+
+    @Override
+    public String getNomor() {
+        return NIP;
+    }
+
+    public String getNIP() {
+        return NIP;
+    }
+}
